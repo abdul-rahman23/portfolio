@@ -16,7 +16,7 @@ This is a simple, responsive personal portfolio site built with HTML and CSS.
 *Coming soon...*
 
 ## 📂 How to View
-Just open the `index.html` file in your browser.
+Just open the `portfolio.html` file in your browser.
 
 ## 👨‍🎓 About Me
 I’m Abdul Rahman, an Information Systems student from Sabaragamuwa University, with skills in web development and software engineering.
